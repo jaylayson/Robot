@@ -11,3 +11,6 @@ RIGHT - turn right
 REPORT - report status - axis and direciton
 
 
+needs test cases - read from a file(?) simulate user input
+
+clean up main(?)
